@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatDokter</string>
+    <string name="deasy">dr. Deasi, Sp.THT</string>
+    <string name="johan">dr. Johan, Sp.THT</string>
+    <string name="anita">dr. Anita,   Sp.A</string>
+    <string name="dicky">dr. Dicky,   Sp.A M.Kes</string>
+    <string name="astrid">drg. Astrid</string>
+    <string name="lydiawati">drg. Lydiawati</string>
+</resources>
